@@ -12,7 +12,7 @@ h2{font-size: 96px; font-weight: bold; color: #fff; line-height: 1.2;}
 /* header */
 .header{position: fixed; top: 0; left: 0; width: 100%; background-color: transparent; z-index: 50; transition: 0.3s;}
 .header .gnb{position: relative; display: flex; align-items: center; padding: 0 290px; box-sizing: border-box; transition: 0.3s;}
-.header .gnb .logo{ width: 86px; height: 37px; background: url(/img/main/main_logo.png) no-repeat 50% 50%; background-size: cover; z-index: 50;}
+.header .gnb .logo{ width: 86px; height: 37px; background: url(../img/main/main_logo.png) no-repeat 50% 50%; background-size: cover; z-index: 50;}
 .header .gnb .logo a{width: 100%; display: inline-block; vertical-align: top; height: 100%;} 
 /* header_nav */
 .header .gnb .nav{ width: calc(100% - 240px);}
